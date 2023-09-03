@@ -1,7 +1,7 @@
 ### Sobre mim
 
-![e-mail](https://img.shields.io/badge/-edson@facioli.dev.br-000000?style=flat-square&labelColor=000000&logo=gmail&logoColor=white&link=malito:edson@facioli.dev.br)(malito:edson@facioli.dev.br)
-![linkedin](https://img.shields.io/badge/-Edson%20Facioli-0000FF?style=flat-square&labelColor=0000FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-facioli/)(https://www.linkedin.com/in/edson-facioli/)
+[![e-mail](https://img.shields.io/badge/-edson@facioli.dev.br-000000?style=flat-square&labelColor=000000&logo=gmail&logoColor=white&link=malito:edson@facioli.dev.br)](malito:edson@facioli.dev.br)
+[![linkedin](https://img.shields.io/badge/-Edson%20Facioli-0000FF?style=flat-square&labelColor=0000FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-facioli/)](https://www.linkedin.com/in/edson-facioli/)
 
 Sou um desenvolvedor Java com experiência em DevOps. Tive experiência em startup, fintech, de cashback chamada Be Blue. Tenho atuado como freelancer desde janeiro de 2023 nas áreas de desenvolvimento, principalmente JAVA, e DevOps. 
 
