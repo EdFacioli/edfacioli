@@ -5,14 +5,6 @@
 
 Sou um desenvolvedor Java com experiência em DevOps. Tive experiência em startup, fintech, de cashback chamada Be Blue. Tenho atuado como freelancer desde janeiro de 2023 nas áreas de desenvolvimento, principalmente JAVA, e DevOps. 
 
-Tenho aprimorado meus conhecimentos em desenvolvimento de software ao estudar e aplicar os princípios de SOLID e DESIGN PATTERNS nos projetos que surgem. Em DevOps tenho estudado ferramentas com ANSIBLE, TERRAFORM e nuvem AWS, iniciarei também estudo em AZURE. 
-
-Sou formado em Ciência da Computação pela UNIP, onde obtive uma bolsa de 100% pelo Pro Uni. Na universidade pude aprimorar alguns conhecimentos que já havia adquirido de forma autodidata e desenvolver outros. As disciplinas que mais chamaram a atenção e que me dediquei mais foram, Linguagens Formais e Compiladores. 
-
-Atuando como freelancer, trabalhei em um projeto, cujo objetivo era a migração de um sistema legado construído com JAVA, JDK6 e RICHFACES para tecnologias mais recentes, como JDK8 e PRIMEFACES. No Be Blue atuei como DevOps por um ano, lá me desenvolvi intensamente, sai do zero para um conhecimento que me permite realizar tarefas relacionadas a DevOps de forma autônoma, aprendi o básico de AWS, SHELL SCRIPTING, GO, VAULT, CONSUL, DOCKER e TERRAFORM. Tenho realizado estudos referentes ao SPRING BOOT, REACT.JS, SPRING BATCH, JWT, DESIGN PATTERNS e SOLID. Para o aperfeiçoamento e aprimoramento dos meus conhecimentos. 
-
-Sou uma pessoa que gosta de compartilhar o que aprende/sabe com os outros, talvez esse seja meu maior ponto forte. Muito obrigado pela oportunidade até aqui! Espero podermos conversar para nos conhecermos melhor :)
-
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
