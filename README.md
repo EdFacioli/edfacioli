@@ -3,7 +3,19 @@
 [![e-mail](https://img.shields.io/badge/-edson@facioli.dev.br-000000?style=flat-square&labelColor=000000&logo=gmail&logoColor=white&link=malito:edson@facioli.dev.br)](mailto:edson@facioli.dev.br)
 [![linkedin](https://img.shields.io/badge/-Edson%20Facioli-0000FF?style=flat-square&labelColor=0000FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-facioli/)](https://www.linkedin.com/in/edson-facioli/)
 
-Sou um desenvolvedor Java com experiência em DevOps. Tive experiência em startup, fintech, de cashback chamada Be Blue. Tenho atuado como freelancer desde janeiro de 2023 nas áreas de desenvolvimento, principalmente JAVA, e DevOps. 
+Desenvolvedor Java | DevOps | Tech Enthusiast
+
+👋 Olá, sou um desenvolvedor Java com experiência em DevOps, formado em Ciência da Computação. Ao longo de 3 anos, destaquei-me em correções e adições de novos recursos em sistemas legados (JDK6, RichFaces). Recentemente, participei de migrações de um sistema legado para JDK8 e PrimeFaces 12.
+
+💻 Freelancer, participei de transição de tecnologias, integrando NOMAD, CONSUL, VAULT em projetos DevOps na fintech Be Blüe. 
+
+Experiência em AWS, DOCKER, TERRAFORM, e paixão por DEVSECOPS.
+
+🚀 Atualmente, explorando SPRING BOOT, REACT.JS, NEXT.JS, JWT, PYTHON, RUBY, GO, ANSIBLE. 
+
+Colaborativo e ávido por aprendizado, meu GitHub reflete projetos e estudos em constante evolução.
+
+Vamos codar juntos! 🚀 #JavaDev #DevOps #TechPassion
 
 ### Experiência de trabalho
 
@@ -11,25 +23,18 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Software Engineer** \
 [**Dess Tecnologia**](http://www.desstecnologia.com.br/) • Full-time - Freelancer \
-Trabalhando como full stack, backend JAVA e futuramente no frontend REACT.JS/NEXT.JS, E realizarei a parte de Ops. Também desenvolvimento de integração de API's e desenvolvimento de
-API's; \
+Trabalhando como full stack, backend JAVA e no frontend REACT.JS/NEXT.JS. Realizando DevOps. Desenvolvimento de integração de API's e desenvolvimento de API's; \
 **Linguagens & Tecnologias:** `AWS` | `REACT.JS` | `NEXT.JS` | `SPRING BOOT` | `JAVA`
- <br/>
 
 **Software Engineer** \
 [**Compliance Soluções**](https://compliancesolucoes.com.br/) • Full-time - Freelancer \
-No trabalho desenvolvido junto a empresa realizei a migração de tecnologias utilizadas no sistema da empresa, dentre essas migrações realizadas estão a utilização de novo JDK e frameworks pelo sistema, proporcionando maior segurança aos seus clientes e do próprio ambiente da empresa; \
+Durante meu tempo na empresa, conduzi a migração de tecnologias no sistema, implementando a transição de versão de JDK e frameworks, para versões mais recentes. Essas mudanças fortaleceram a segurança tanto para os clientes quanto para o ambiente interno da empresa; \
 **Linguagens & Tecnologias:** `PRIMEFACES` | `JDK8` | `JSF (JavaServer Faces)` | `JAVA`
 
 **DevOps Engineer** \
 [**Beblue**](https://www.linkedin.com/company/beblueapp/) • Full-time \
-No Beblue realizava monitoramento com DATADOG da infraestrutura e serviços na nuvem. \
-Desenvolvia scripts, para automação de processos utilizados no serviço AWS S3, por exemplo. \
-Trabalhei na criação de ferramentas em linha de comando, CLI, destacando uma ferramenta que era responsável pelo processo de deploy dos serviços da empresa no AWS ECS;\
-**Linguagens & Tecnologias:** `BITBUCKET` | `BITBUCKET-PIPELINE` | `PACKER` | `CLOUD AWS` | `VAULT` | `AMAZON ECS` | `GIT` | `CONSUL` | `BASH` | `TERRAFORM` | `GO (Linguagem de programação)` | `LINUX` | `DOCKER`
-
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/edson-facioli/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+No Beblue, meu papel envolveu o monitoramento da infraestrutura e serviços na nuvem usando DATADOG. Desenvolvi scripts para automatizar processos no serviço AWS S3 e participei da criação ferramentas em linha de comando, incluindo uma responsável pelo deploy dos serviços da empresa no AWS ECS;\
+**Linguagens & Tecnologias:** `BITBUCKET` | `BITBUCKET-PIPELINE` | `PACKER` | `CLOUD AWS` | `VAULT` | `AMAZON ECS` | `GIT` | `CONSUL` | `BASH` | `TERRAFORM` | `GOLANG` | `LINUX` | `DOCKER`
 
 <h3>Minhas Skills</h3>
 
